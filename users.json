@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Max",
+      "age": 25,
+      "married": true,
+      "languages": ["Russia", "Ukrainian", "English", "French", "Dutch"]
+    },
+    {
+      "name": "Jaina",
+      "age": 28,
+      "married": true,
+      "languages": ["Russia", "Polish", "English", "Korean"]
+    }
+  ]
+}
